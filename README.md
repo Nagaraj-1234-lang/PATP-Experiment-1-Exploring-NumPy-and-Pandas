@@ -146,7 +146,3 @@ None
 
 ## Result
 Thus, NumPy arithmetic operations and Pandas DataFrame operations were successfully performed. Descriptive statistical measures and dataset information were also obtained using Python libraries.
-
-
-## Result
-
